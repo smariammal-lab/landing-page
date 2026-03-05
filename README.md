@@ -11,10 +11,10 @@ This is a simple landing page created using HTML, CSS, and JavaScript.
 ## 🛠️ Technologies Used
 - HTML
 - CSS
-- JavaScript
+- JavaScript                      
 
 ## 📷 Screenshot
-(Add screenshot here if needed)
+![AgriMind Landing Page](agrimind-landing-page.webp)
 
 ## ▶️ How to Run
 1. Download or clone the repository
